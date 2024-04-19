@@ -1,11 +1,10 @@
-# Data Scientist
+# Data Scientist, Econometrician, Quantitative Analysts (Quants)
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, R, IBM SPSS, Power BI, SQL, STATA, Jamovi, JASP
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education 			        		
+- Bachelor of Management, International Business Management | Ciputra University at Surabaya (_July 2021_)
+- Minor in Finance and Data Analytics, International Business Management | Ciputra University at Surabaya (_July 2021_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
